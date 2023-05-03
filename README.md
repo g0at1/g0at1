@@ -1,16 +1,25 @@
 ### Hi there, welcome to my profile! 🤠
 
+## Student at Polish-Japanese Academy of Information Technology in Warsaw
+
 
 🌱 I’m currently learning: Go
 
-### Languages:
+### Languages and tools:
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PosgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
           
           
+
+         
 <br />
 <br />
 <br />
