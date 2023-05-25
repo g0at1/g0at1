@@ -24,10 +24,11 @@
 
          
 <br />
+<br />
+<br />
 
 ![Goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=transparent)
 
-<br />
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g0at1&theme=dark)](https://git.io/streak-stats)
