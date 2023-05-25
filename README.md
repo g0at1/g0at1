@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, welcome to my profile! 🤠</h1> 
 <h3 align="center">Student at Polish-Japanese Academy of Information Technology in Warsaw</h3>
 
-
+<!--
 🌱 I’m currently learning: Go
-
+-->
 
 ### Languages and tools:
 
@@ -16,6 +16,8 @@
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PosgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;"/>
+          
 
           
           
