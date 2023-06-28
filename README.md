@@ -1,32 +1,33 @@
 <h1 align="center">Hi there, welcome to my profile! 🤠</h1> 
-<h3 align="center">Currently studying at Polish-Japanese Academy of Information Technology in Warsaw. I'm a passionate student trying to conquer programming world.</h3>
+<h3 align="center">Currently studying CS at Polish-Japanese Academy of Information Technology in Warsaw. I'm a passionate student trying to conquer programming world.</h3>
 
 
 
 <h2 align="center">Programming languages I use:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,go,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,go&theme=light" />
   </a>
 </p>
 <h2 align="center">Frameworks:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" />
   </a>
 </p>
 <h2 align="center">Software, tools, environments & used IDEs:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim&theme=light" />
   </a>
 </p>
           
           
 
          
-
+<p align="center>
 ![Goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=transparent)
+</p>
 
 <br />
 
