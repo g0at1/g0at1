@@ -1,31 +1,30 @@
 <h1 align="center">Hi there, welcome to my profile! 🤠</h1> 
-<h3 align="center">Student at Polish-Japanese Academy of Information Technology in Warsaw</h3>
+<h3 align="center">Currently studying at Polish-Japanese Academy of Information Technology in Warsaw. I'm a passionate student trying to conquer programming world.</h3>
 
-<!--
-🌱 I’m currently learning: Go
--->
 
-### Languages and tools:
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PosgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;"/>
-          
-
+<h2 align="center">Programming languages I use:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,go,figma&theme=light" />
+  </a>
+</p>
+<h2 align="center">Frameworks:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,figma&theme=light" />
+  </a>
+</p>
+<h2 align="center">Software, tools, environments & used IDEs:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,figma&theme=light" />
+  </a>
+</p>
           
           
 
          
-<br />
-<br />
-<br />
 
 ![Goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=transparent)
 
@@ -46,6 +45,9 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api? username=g0at1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 Here are some ideas to get you started:
+-->
+<!--
+🌱 I’m currently learning: Go
 -->
 
 
