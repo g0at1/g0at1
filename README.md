@@ -12,13 +12,13 @@
 <h2 align="center">Frameworks:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,selenium&theme=light" />
   </a>
 </p>
 <h2 align="center">Software, tools, environments & used IDEs:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,docker&theme=light" />
   </a>
 </p>
           
