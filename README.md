@@ -1,15 +1,6 @@
 <h1 align="center">Hi there, welcome to my profile! 🤠</h1> 
 <h3 align="center">Currently studying CS at Polish-Japanese Academy of Information Technology in Warsaw. I'm a passionate student trying to conquer programming world.</h3>
 
-Few facts about me:
-- I love boxing
-- My top 3 fighters (present days):
-  * Fiodor Czerkaszyn
-  * Shakur Stevenson
-  * Naoya Inoue
-In that order.
-- My favourite fighter from earlier days:
-  * Sugar Ray Leonard  
 
 
 <h2 align="center">Programming languages I use:</h2>
