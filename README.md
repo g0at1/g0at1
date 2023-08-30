@@ -6,19 +6,19 @@
 <h2 align="center">Programming languages I use:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,go&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,go&theme=dark" />
   </a>
 </p>
 <h2 align="center">Frameworks:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,selenium&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,selenium&theme=dark" />
   </a>
 </p>
 <h2 align="center">Software, tools, environments & used IDEs:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,docker&theme=dark" />
   </a>
 </p>
           
