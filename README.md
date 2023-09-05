@@ -26,7 +26,7 @@
 
 <br />     
 
-![Goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=transparent)
+![Goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=bear)
 
 <br />
 
