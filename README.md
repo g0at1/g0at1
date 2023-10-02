@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/g0at1)](https://leetcode.com/g0at1)
 
-![Codewars](https://github.r2v.ch/codewars?user=g0at1&stroke=blue)
+![Codewars](https://www.codewars.com/users/g0at1/badges/large)
 
 ## Connect with Me
 
