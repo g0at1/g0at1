@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=nord)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=g0at1&show_icons=true&theme=nord&rank_icon=github&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=g0at1&theme=nord)](https://git.io/streak-stats)
 
