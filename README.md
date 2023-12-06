@@ -1,4 +1,4 @@
-# Hi there, I'm Michał 👋
+<!--# Hi there, I'm Michał 👋
 
 ## About Me
 
@@ -22,6 +22,8 @@ Here are some of the technologies and tools I work with:
 ## Leetcode and Codewars stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/g0at1)](https://leetcode.com/g0at1)
+
+-->
 
 [![Codewars](https://www.codewars.com/users/g0at1/badges/large)](https://codewars.com/users/g0at1)
 
