@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/g0at1)](https://leetcode.com/g0at1)
 
--->
+
 
 [![Codewars](https://www.codewars.com/users/g0at1/badges/large)](https://codewars.com/users/g0at1)
 
@@ -33,3 +33,5 @@ Let's connect and chat! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lendzion-michal/)
 - [Twitter](https://twitter.com/michvl01)
+
+-->
