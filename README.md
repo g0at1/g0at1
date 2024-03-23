@@ -35,5 +35,3 @@ Let's connect and chat! You can find me on:
 - [Twitter](https://twitter.com/michvl01)
 
 -->
-
-<img src="https://myoctocat.com/assets/images/octocats/octocat-20.png" />
