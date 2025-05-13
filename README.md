@@ -35,4 +35,3 @@ Let's connect and chat! You can find me on:
 - [Twitter](https://twitter.com/michvl01)
 
 -->
-<img src="https://preview.redd.it/hi-i-need-this-double-checked-for-an-art-collage-project-i-v0-efyu8on9mzy91.jpg?auto=webp&s=c8d66908c8467eb9fc7aef0a5673a0e6ad615234" />
