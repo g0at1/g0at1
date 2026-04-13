@@ -35,3 +35,18 @@ Let's connect and chat! You can find me on:
 - [Twitter](https://twitter.com/michvl01)
 
 -->
+```csharp
+using System;
+using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc;
+using Angular;
+using SqlServer;
+
+public sealed class Developer
+{
+    public string Name => "Michał";
+    public string Role => "Full-Stack Developer";
+    public List<string> Languages = new List<string>() { "Polish", "English (C1)" };
+    public List<string> Technologies = new List<string>() { ".NET", "ASP.NET Core", "Angular", "SQL Server", "Python" };
+}
+```
